@@ -12,5 +12,5 @@ A virtual keyboard is a software-based keyboard used with touch screen devices. 
 ![image](https://user-images.githubusercontent.com/86516649/208847496-34859634-b852-4846-bab7-39037ac64a93.png)
 
 ## Deployment
-## [Demo](marishka1997.github.io/virtual-keyboard/)
+## [Demo](https://marishka1997.github.io/virtual-keyboard/)
 ## [Task in RS School](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md)
